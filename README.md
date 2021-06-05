@@ -6,6 +6,7 @@ They have given a problem to identify the customer segments which are eligible f
 Dataset downloaded from Kaggle - https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 
 Deployed ML Model using Heroku    - https://creditcard-approval-prediction.herokuapp.com/
+
 Deployed ML Model using Streamlit - https://share.streamlit.io/vinaykhujat/credit-card-approval-prediction/main
 
 Visualized data using Tableau - https://public.tableau.com/app/profile/vinay.khujat/viz/CreditCardApprovalPrediction/Dashboard2

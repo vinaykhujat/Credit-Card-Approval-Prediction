@@ -7,8 +7,6 @@ Dataset downloaded from Kaggle - https://www.kaggle.com/rikdifos/credit-card-app
 
 Deployed ML Model using Heroku    - https://creditcard-approval-prediction.herokuapp.com/
 
-Deployed ML Model using Streamlit - https://share.streamlit.io/vinaykhujat/credit-card-approval-prediction/main
-
 Visualized data using Tableau - https://public.tableau.com/app/profile/vinay.khujat/viz/CreditCardApprovalPrediction/Dashboard2
 
 # Steps Performed - 

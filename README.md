@@ -5,7 +5,8 @@ They have given a problem to identify the customer segments which are eligible f
 
 Dataset downloaded from Kaggle - https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 
-Deployed Model using Heroku - https://creditcard-approval-prediction.herokuapp.com/
+Deployed ML Model using Heroku    - https://creditcard-approval-prediction.herokuapp.com/
+Deployed ML Model using Streamlit - https://share.streamlit.io/vinaykhujat/credit-card-approval-prediction/main
 
 Visualized data using Tableau - https://public.tableau.com/app/profile/vinay.khujat/viz/CreditCardApprovalPrediction/Dashboard2
 
@@ -38,4 +39,4 @@ Visualized data using Tableau - https://public.tableau.com/app/profile/vinay.khu
 21.   Used K-Fold & Stratified Shuffle Split for Validation
 
 **Conclusion** - 
-As we have seen that, XGBoost Model is giving highest accuracy of 84.14 %, hence we will use XGBoost Model for prediction.
+As we have seen that, XGBoost Model is giving the highest accuracy of 84.14 %, hence we will use XGBoost Model for prediction.
